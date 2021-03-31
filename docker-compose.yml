@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  listacontatos:
+    image: ${DOCKER_REGISTRY-}listacontatos
+    build:
+      context: .
+      dockerfile: Dockerfile
