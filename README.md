@@ -38,23 +38,31 @@ Felipe Rodrigues, trabalhando para empresa "Talk and Live" atualmente trabalho c
 https://www.docker.com
 
 https://hub.docker.com/editions/community/docker-ce-desktop-windows/
-
+_____________________________________________________________________________________________________________________________________________________________
 https://www.heroku.com
-
-https://docs.microsoft.com/pt-br/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/visual-studio-tools-for-docker
-
+_____________________________________________________________________________________________________________________________________________________________
 https://restfulapi.net/http-status-codes/
 
 https://restfulapi.net/resource-naming/
-
-https://medium.com/@renatoluizcarvalho/realizando-deploy-net-core-2-2-no-heroku-registry-5f34cbb50b07
-
+_____________________________________________________________________________________________________________________________________________________________
 https://docs.microsoft.com/pt-br/aspnet/core/web-api/action-return-types?view=aspnetcore-5.0#actionresultt-type
+
+https://docs.microsoft.com/pt-br/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/visual-studio-tools-for-docker
+
+https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
+_____________________________________________________________________________________________________________________________________________________________
+https://medium.com/@renatoluizcarvalho/realizando-deploy-net-core-2-2-no-heroku-registry-5f34cbb50b07
 
 https://www.treinaweb.com.br/blog/publicando-uma-aplicacao-asp-net-core-no-heroku/#:~:text=Publicando%20a%20aplica%C3%A7%C3%A3o%20no%20Heroku,herokuapp.com%20
 
 http://www.macoratti.net/17/04/aspcore_webapi1.htm
 
 https://stackoverflow.com/questions/37604183/how-do-i-persist-data-in-memory-with-net-rest-api
+_____________________________________________________________________________________________________________________________________________________________
+https://balta.io/artigos/aspnet-5-autenticacao-autorizacao-bearer-jwt
 
-https://docs.microsoft.com/pt-br/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members
+https://www.youtube.com/watch?v=UZ2Qa4xosl0&t=711s
+_____________________________________________________________________________________________________________________________________________________________
+http://andti.com.br/tool/hash
+_____________________________________________________________________________________________________________________________________________________________
+https://stackoverflow.com/questions/3984138/hash-string-in-c-sharp
